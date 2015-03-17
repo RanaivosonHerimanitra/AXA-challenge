@@ -1,5 +1,5 @@
 # AXA-challenge
-This is a part of team Villanova's final solution.
+This is a part of team Villanova's final solution. (22th place)
 Created by Jiwei Liu and Xueer Chen
 
 It generates solution with 0.90625 public LB
